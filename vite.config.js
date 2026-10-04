@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/sawaira-ijaz-portfolio/',
+  base: '/CodeAlpha_Task3_CV_Portfolio/',
 })
